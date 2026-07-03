@@ -50,23 +50,17 @@ These clues were used to narrow the search.
 
 Google Maps was used to identify water refilling stations around Boni Avenue.
 
-*Insert screenshot*
-
 ---
 
 ### Step 3: Review Historical Street View
 
 Historical Street View imagery was examined to identify businesses that existed before the current establishment.
 
-*Insert screenshot*
-
 ---
 
 ### Step 4: Verify Business Information
 
 The business name was cross-checked using publicly available directories and search engines to verify the contact information.
-
-*Insert screenshot*
 
 ---
 
