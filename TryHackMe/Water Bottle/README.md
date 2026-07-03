@@ -50,7 +50,8 @@ These clues helped narrow the investigation.
 
 Using Google Maps, I searched for water refilling stations around Boni Avenue and identified the current establishment.
 
-![Current Location](screenshots/step1.png)
+![Current Location](screenshots/step1_current_location_2019.png)
+
 
 **Observation**
 
@@ -62,7 +63,8 @@ The location currently contains **Alkafresco Water Refilling Station**, suggesti
 
 Google Street View's historical imagery was used to inspect older captures of the same location.
 
-![Historical Street View](screenshots/step2.png)
+
+![Historical Street View](screenshots/step2_historical_view_2014.png)
 
 **Observation**
 
