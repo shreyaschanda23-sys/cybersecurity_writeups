@@ -1,24 +1,25 @@
-
 # Water Bottle - TryHackMe
 
 ## Overview
 
-- **Platform:** TryHackMe
-- **Category:** OSINT
-- **Difficulty:** Easy
+| Platform | TryHackMe |
+|----------|-----------|
+| Category | OSINT |
+| Difficulty | Easy |
+
+---
 
 ## Objective
 
-Use open-source intelligence (OSINT) techniques to identify the original water refilling station and recover its contact number based on limited clues.
+Investigate a former water refilling station near Boni Avenue using Open Source Intelligence (OSINT) techniques to identify the original business.
 
 ---
 
 ## Skills Practiced
 
-- Google Dorking
-- Google Maps
-- Google Street View
-- Historical Street View
+- OSINT
+- Google Maps Investigation
+- Historical Street View Analysis
 - Business Enumeration
 - Information Verification
 
@@ -29,46 +30,57 @@ Use open-source intelligence (OSINT) techniques to identify the original water r
 - Google Search
 - Google Maps
 - Google Street View
-- Archived business listings
 
 ---
 
 ## Methodology
 
-### Step 1: Analyze the Challenge
+### Step 1 - Analyze the Challenge
 
 The challenge provided two important clues:
 
-- Location near **Boni Avenue**
-- A 12-digit mobile number beginning with **63922**
+- The location was near Boni Avenue.
+- The contact number started with **63922**.
 
-These clues were used to narrow the search.
-
----
-
-### Step 2: Locate the Area
-
-Google Maps was used to identify water refilling stations around Boni Avenue.
+These clues helped narrow the investigation.
 
 ---
 
-### Step 3: Review Historical Street View
+### Step 2 - Locate the Water Station
 
-Historical Street View imagery was examined to identify businesses that existed before the current establishment.
+Using Google Maps, I searched for water refilling stations around Boni Avenue and identified the current establishment.
+
+![Current Location](screenshots/step1.png)
+
+**Observation**
+
+The location currently contains **Alkafresco Water Refilling Station**, suggesting that the original business had been replaced.
 
 ---
 
-### Step 4: Verify Business Information
+### Step 3 - Review Historical Street View
 
-The business name was cross-checked using publicly available directories and search engines to verify the contact information.
+Google Street View's historical imagery was used to inspect older captures of the same location.
+
+![Historical Street View](screenshots/step2.png)
+
+**Observation**
+
+The April 2014 imagery revealed the previous business operating at the location, confirming the original water station.
+
+---
+
+### Step 4 - Verify the Findings
+
+The business information was verified using publicly available search results and business listings.
 
 ---
 
 ## Key Learnings
 
-- Historical Street View can reveal businesses that no longer exist.
-- Combining multiple OSINT sources improves confidence in findings.
-- Small clues such as phone prefixes and location names can significantly narrow an investigation.
+- Historical Street View is an effective OSINT resource.
+- Small clues such as location names and partial phone numbers can significantly narrow an investigation.
+- Cross-verifying information using multiple public sources increases confidence in findings.
 
 ---
 
@@ -76,10 +88,9 @@ The business name was cross-checked using publicly available directories and sea
 
 - Google Maps
 - Google Street View
-- Public business directories
 
 ---
 
-> **Disclaimer**
->
-> This writeup is intended for educational purposes only. It focuses on the investigative methodology and does not disclose protected challenge answers or flags.
+## Disclaimer
+
+This writeup is for educational purposes only and focuses on the investigative methodology. It does not include protected challenge answers or flags.
