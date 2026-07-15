@@ -36,7 +36,6 @@ Using **Feroxbuster**, hidden directories and endpoints were discovered, reveali
 
 > **Screenshot:** `images/02-nmap.png`
 >
-> **Screenshot:** `images/03-feroxbuster.png`
 
 ---
 
@@ -92,8 +91,6 @@ The assessment demonstrated the impact of insufficient validation of outbound se
 - Internal resource testing
 - SSRF validation
 - HTTP request analysis
-
-> **Screenshot:** `images/09-ssrf.png`
 
 ---
 
