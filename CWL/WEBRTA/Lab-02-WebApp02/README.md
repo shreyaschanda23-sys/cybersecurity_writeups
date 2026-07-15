@@ -25,8 +25,6 @@ Directory enumeration was performed using **Feroxbuster** to identify accessible
 
 This process revealed the application's client login functionality.
 
-> **Screenshot:** `images/01-feroxbuster.png`
-
 ---
 
 ## Authentication Assessment
